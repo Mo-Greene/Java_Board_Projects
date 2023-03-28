@@ -1,5 +1,4 @@
 # JAVA Board Projects
-## author : Mo-Greene
 
 현재 사용하는 SpringBoot 프레임워크와 웹개발을 조금 더 이해하기 위한 단계별 프로젝트 모음입니다.
 
