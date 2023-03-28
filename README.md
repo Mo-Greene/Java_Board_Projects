@@ -4,7 +4,7 @@
 
 <br/>
 
-### 1. Model1 방식의 게시판
+### 1. Model1 아키텍처 게시판
 - 사용기술 : JSP
 - [Github 바로가기](https://github.com/Mo-Greene/Jsp_Board.ver1.git)
 
